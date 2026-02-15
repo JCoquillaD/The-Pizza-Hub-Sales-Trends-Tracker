@@ -1,7 +1,10 @@
 # 🍕 The Pizza Hub: Sales & Trends Tracker
 
 This project is a comprehensive **Sales & Trends Dashboard** designed to analyze customer behavior, operational efficiency, and financial health for a pizza business.
-
+### 📂 Data Source Information
+* **Dataset**: Pizza Place Sales url: https://mavenanalytics.io/data-playground/pizza-place-sales
+* **Volume**: Processed transactional data consisting of **499 records** and **25 fields**.
+* **Scope**: A year's worth of sales data including date, time, pizza types, sizes, quantities, and prices.
 ---
 
 ### 🎯 Project Overview
